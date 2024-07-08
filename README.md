@@ -6,6 +6,11 @@ Este projeto está funcional, porém será feito no futuro mais alguns aprimoram
 
 Para utilizar o sistema é necessário realizar um cadastro, registrando apenas nome, email e senha.
 
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/00a.png">
+
+
+Após o cadastro, é preciso fazer login para ter acesso a sua própria sessão de usuário.
+
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/00.png">
 
 
