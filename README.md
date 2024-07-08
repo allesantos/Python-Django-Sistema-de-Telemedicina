@@ -1,2 +1,2 @@
-# Python-Django-Sistema-de-Telemedicina
+# Projeto em Django - Sistema de Telemedicina
  
