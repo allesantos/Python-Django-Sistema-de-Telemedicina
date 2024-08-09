@@ -4,6 +4,8 @@ Este é um projeto de uma plataforma de telemedicina onde é possível um médic
 
 Este projeto está funcional, porém será feito no futuro mais alguns aprimoramentos e mais features.
 
+ <a href="https://alledesenvolvimento.pythonanywhere.com/usuarios/login/">Clique aqui para acessar a plataforma</a>
+
 Para utilizar o sistema é necessário realizar um cadastro, registrando apenas usuário, email e senha.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/00a.png">
