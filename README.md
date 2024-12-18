@@ -21,9 +21,13 @@ Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem s
 
 ## Recursos
 -  __Cadastro e login de usuários:__  Tanto médicos quanto pacientes podem se cadastrar e realizar login.
+  
 -  __Cadastro de médicos:__ Médicos devem fornecer credenciais e especialidades.
+  
 -  __Agendamento de consultas:__ Pacientes escolhem médicos e marcam consultas com base nos horários disponíveis.
+  
 -  __Visualização de consultas:__ Médicos podem visualizar as consultas agendadas e entrar em videochamadas.
+  
 -  __Videochamada:__ Funcionalidade para médicos e pacientes interagirem em tempo real através de videochamadas.
 
 
