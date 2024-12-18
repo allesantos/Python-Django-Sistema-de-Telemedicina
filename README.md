@@ -1,6 +1,23 @@
-# Sistema de Telemedicina
+# Plataforma de Telemedicina
 
-Este é um projeto de uma plataforma de telemedicina onde é possível um médico ou paciente se cadastrar, fazer login e interagir com o sistema. Caso seja um médico, este precisa informar credenciais que o habilita exercer a função. Ao fazer login, este pode abrir horários para consultas, visualiza-las e até mesmo abrir uma videochamada com o paciente. Se for um paciente, ele consegue visualizar os médicos cadastrados, escolher uma especialidade e marcar uma consulta.
+Este é um projeto de uma plataforma de telemedicina desenvolvida com Django, permitindo que médicos e pacientes se cadastrem, façam login e interajam no sistema para agendar e realizar consultas online.
+
+## Índice
+- [Descrição](#Descrição)
+- [Recursos](#Recursos)
+- [Tecnologias Utilizadas](#Tecnologias Utilizadas)
+- [Pré-requisitos](#Pré-requisitos)
+- [Instalação](#Instalação)
+- [Uso](#Uso)
+- [Contribuição](#Contribuição)
+- [Licença](#Licença)
+
+## Descrição
+Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem se registrar e interagir para realizar consultas. O sistema foi desenvolvido usando Django e fornece as funcionalidades para agendamento de consultas e videochamadas.
+
+__Médicos::__ Podem se cadastrar, fornecer credenciais profissionais, cadastrar horários disponíveis para consultas, visualizar consultas agendadas e realizar videochamadas com os pacientes.
+
+__Pacientes:__ Podem se cadastrar, escolher especialidades, visualizar médicos disponíveis, agendar consultas e se conectar com os médicos via videochamada.
 
 Para utilizar o sistema é necessário realizar um cadastro, registrando apenas usuário, email e senha.
 
