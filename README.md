@@ -90,41 +90,33 @@ Para utilizar o sistema é necessário realizar um cadastro, registrando apenas 
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/00a.png">
 
-
 Após o cadastro, é preciso fazer login para ter acesso a sua própria sessão de usuário.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/00.png">
-
 
 Se o usuário for médico, em sua home, é possível visualizar também todos os outros médicos cadastrados e suas especialidades.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/01.png">
 
-
 É possível realizar um filtro para localizar um médico cadastrado de acordo com sua especialidade. Esta função está disponível para médicos ou pacientes realizarem o filtro.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/02.png">
-
 
 É possível realizar um filtro para localizar um médico cadastrado de acordo com o seu nome ou partes do nome. Esta função está disponível para médicos ou pacientes realizarem o filtro.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/03.png">
 
-
 O médico cadastrado pode abrir horários para consultas.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/04.png">
-
 
 É possível o médico visualizar todas as suas consultas e seus status.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/04.png">
 
-
 Quando chega o dia e horário da consulta, o médico adiciona o link da videoconferência e inicia a consulta.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/06.png">
-
 
 Quando uma consulta é finalizada com um paciente, o médico também pode publicar documentos como atestado médico, receitas, exames etc.
 
@@ -135,8 +127,19 @@ Sinta-se à vontade para contribuir com este projeto. Siga estas etapas:
 
 1. Faça um fork do repositório.
 
-2. Crie uma nova branch para sua feature/bugfix
+2. Crie uma nova branch para sua feature/bugfix:
 
 ```
 git checkout -b minha-feature
 ```
+
+3. Envie suas alterações:
+
+```
+git push origin minha-feature
+```
+
+4. Abra um Pull Request.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
