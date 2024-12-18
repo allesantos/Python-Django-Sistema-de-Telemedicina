@@ -50,8 +50,8 @@ Além disso, recomenda-se usar um ambiente virtual Python para gerenciar depend�
 1. Clone o repositório para sua máquina local:
 
 ```
-> git clone https://github.com/seu-usuario/nome-do-repositorio.git
-> cd nome-do-repositorio
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
 ```
 
 2. Crie e ative um ambiente virtual:
@@ -129,3 +129,14 @@ Quando chega o dia e horário da consulta, o médico adiciona o link da videocon
 Quando uma consulta é finalizada com um paciente, o médico também pode publicar documentos como atestado médico, receitas, exames etc.
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/07.png">
+
+## Contribuição
+Sinta-se à vontade para contribuir com este projeto. Siga estas etapas:
+
+1. Faça um fork do repositório.
+
+2. Crie uma nova branch para sua feature/bugfix
+
+```
+git checkout -b minha-feature
+```
