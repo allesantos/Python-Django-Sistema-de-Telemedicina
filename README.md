@@ -1,10 +1,6 @@
-# Projeto em Django - Sistema de Telemedicina
+Sistema de Telemedicina
 
 Este é um projeto de uma plataforma de telemedicina onde é possível um médico ou paciente se cadastrar, fazer login e interagir com o sistema. Caso seja um médico, este precisa informar credenciais que o habilita exercer a função. Ao fazer login, este pode abrir horários para consultas, visualiza-las e até mesmo abrir uma videochamada com o paciente. Se for um paciente, ele consegue visualizar os médicos cadastrados, escolher uma especialidade e marcar uma consulta.
-
-Este projeto está funcional, porém será feito no futuro mais alguns aprimoramentos e mais features.
-
- <a href="https://alledesenvolvimento.pythonanywhere.com/usuarios/login/" target="_blank">Clique aqui para acessar a plataforma</a>
 
 Para utilizar o sistema é necessário realizar um cadastro, registrando apenas usuário, email e senha.
 
