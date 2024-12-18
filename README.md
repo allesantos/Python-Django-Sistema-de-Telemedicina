@@ -126,15 +126,15 @@ Sinta-se à vontade para contribuir com este projeto. Siga estas etapas:
 
 2. Crie uma nova branch para sua feature/bugfix:
 
-```
-git checkout -b minha-feature
-```
+    ```
+    git checkout -b minha-feature
+    ```
 
 3. Envie suas alterações:
 
-```
-git push origin minha-feature
-```
+    ```
+    git push origin minha-feature
+    ```
 
 4. Abra um Pull Request.
 
