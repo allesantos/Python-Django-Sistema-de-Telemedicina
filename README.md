@@ -50,8 +50,8 @@ Além disso, recomenda-se usar um ambiente virtual Python para gerenciar depend�
 1. Clone o repositório para sua máquina local:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+> git clone https://github.com/seu-usuario/nome-do-repositorio.git
+> cd nome-do-repositorio
 ```
 
 2. Crie e ative um ambiente virtual:
