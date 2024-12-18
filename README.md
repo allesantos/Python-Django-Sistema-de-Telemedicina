@@ -108,10 +108,15 @@ O médico cadastrado pode abrir horários para consultas.
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/04.png">
 
 É possível o médico visualizar todas as suas consultas e seus status.
+
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/04.png">
+
 Quando chega o dia e horário da consulta, o médico adiciona o link da videoconferência e inicia a consulta.
+
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/06.png">
+
 Quando uma consulta é finalizada com um paciente, o médico também pode publicar documentos como atestado médico, receitas, exames etc.
+
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/07.png">
 
 ## Contribuição
