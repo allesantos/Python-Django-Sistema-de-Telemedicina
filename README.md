@@ -41,8 +41,8 @@ Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem s
 
 ## Pré-requisitos
 Antes de começar, você precisará ter as seguintes ferramentas instaladas:
--  Python 3.x
--  Git
+-  __Python 3.x__
+-  __Git__
   
 Além disso, recomenda-se usar um ambiente virtual Python para gerenciar dependências.
 
