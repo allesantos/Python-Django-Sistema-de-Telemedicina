@@ -5,7 +5,7 @@ Este é um projeto de uma plataforma de telemedicina desenvolvida com Django, pe
 ## Índice
 - [Descrição](#Descrição)
 - [Recursos](#Recursos)
-- [Tecnologias Utilizadas](#Tecnologias_Utilizadas)
+- [Tecnologias Utilizadas](#Tecnologias)
 - [Pré-requisitos](#Pré-requisitos)
 - [Instalação](#Instalação)
 - [Uso](#Uso)
@@ -30,7 +30,7 @@ Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem s
   
 -  __Videochamada:__ Funcionalidade para médicos e pacientes interagirem em tempo real através de videochamadas.
 
-## Tecnologias Utilizadas
+## Tecnologias
 -  __Django__
   
 -  __Django Rest Framework__
