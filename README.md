@@ -30,10 +30,28 @@ Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem s
   
 -  __Videochamada:__ Funcionalidade para médicos e pacientes interagirem em tempo real através de videochamadas.
 
+## Tecnologias Utilizadas
+-  __Django__
+-  __Django Rest Framework__
+-  __WebRTC__ para videochamadas
+-  __SQLite__ (banco de dados local) ou __PostgreSQL__ (para produção)
+-  __HTML/CSS/JavaScript__ para a interface do usuário
 
+## Pré-requisitos
+Antes de começar, você precisará ter as seguintes ferramentas instaladas:
+-  Python 3.x
+-  Git
+-  Um servidor de videochamada WebRTC (como o PeerJS, se necessário).
+  
+Além disso, recomenda-se usar um ambiente virtual Python para gerenciar dependências.
 
+## Instalação
+1 Clone o repositório para sua máquina local:
 
-
+```
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+```
 
 
 
