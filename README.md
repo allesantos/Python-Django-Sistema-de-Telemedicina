@@ -49,38 +49,35 @@ Além disso, recomenda-se usar um ambiente virtual Python para gerenciar depend�
 ## Instalação
 1. Clone o repositório para sua máquina local:
 
-```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-```
+    ```
+    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    cd nome-do-repositorio
+    ```
 
 2. Crie e ative um ambiente virtual:
 
-```
-python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
-```
+    ```
+    python -m venv venv
+    source venv/bin/activate  # No Windows: venv\Scripts\activate
+    ```
 
 3. Instale as dependências do projeto:
 
-```
-python -m venv venv
-pip install -r requirements.txt
-```
+    ```
+    pip install -r requirements.txt
+    ```
 
 4. Execute as migrações do banco de dados:
 
-```
-python -m venv venv
-python manage.py migrate
-```
+    ```
+    python manage.py migrate
+    ```
 
 5. Inicie o servidor de desenvolvimento:
 
-```
-python -m venv venv
-python manage.py runserver
-```
+    ```
+    python manage.py runserver
+    ```
 
 6. Acesse o sistema em http://127.0.0.1:8000/ no seu navegador.
 
@@ -111,15 +108,10 @@ O médico cadastrado pode abrir horários para consultas.
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/04.png">
 
 É possível o médico visualizar todas as suas consultas e seus status.
-
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/04.png">
-
 Quando chega o dia e horário da consulta, o médico adiciona o link da videoconferência e inicia a consulta.
-
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/06.png">
-
 Quando uma consulta é finalizada com um paciente, o médico também pode publicar documentos como atestado médico, receitas, exames etc.
-
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Telemedicina-Django/07.png">
 
 ## Contribuição
