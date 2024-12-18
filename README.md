@@ -82,9 +82,7 @@ python manage.py runserver
 
 6. Acesse o sistema em http://127.0.0.1:8000/ no seu navegador.
 
-
-
-
+## Uso
 
 Para utilizar o sistema é necessário realizar um cadastro, registrando apenas usuário, email e senha.
 
