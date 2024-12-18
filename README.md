@@ -15,16 +15,16 @@ Este é um projeto de uma plataforma de telemedicina desenvolvida com Django, pe
 ## Descrição
 Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem se registrar e interagir para realizar consultas. O sistema foi desenvolvido usando Django e fornece as funcionalidades para agendamento de consultas e videochamadas.
 
-__Médicos:__ Podem se cadastrar, fornecer credenciais profissionais, cadastrar horários disponíveis para consultas, visualizar consultas agendadas e realizar videochamadas com os pacientes.
+-  __Médicos:__ Podem se cadastrar, fornecer credenciais profissionais, cadastrar horários disponíveis para consultas, visualizar consultas agendadas e realizar videochamadas com os pacientes.
 
-__Pacientes:__ Podem se cadastrar, escolher especialidades, visualizar médicos disponíveis, agendar consultas e se conectar com os médicos via videochamada.
+-  __Pacientes:__ Podem se cadastrar, escolher especialidades, visualizar médicos disponíveis, agendar consultas e se conectar com os médicos via videochamada.
 
 ## Recursos
-__Cadastro e login de usuários:__  Tanto médicos quanto pacientes podem se cadastrar e realizar login.
-__Cadastro de médicos:__ Médicos devem fornecer credenciais e especialidades.
-__Agendamento de consultas:__ Pacientes escolhem médicos e marcam consultas com base nos horários disponíveis.
-__Visualização de consultas:__ Médicos podem visualizar as consultas agendadas e entrar em videochamadas.
-__Videochamada:__ Funcionalidade para médicos e pacientes interagirem em tempo real através de videochamadas.
+-  __Cadastro e login de usuários:__  Tanto médicos quanto pacientes podem se cadastrar e realizar login.
+-  __Cadastro de médicos:__ Médicos devem fornecer credenciais e especialidades.
+-  __Agendamento de consultas:__ Pacientes escolhem médicos e marcam consultas com base nos horários disponíveis.
+-  __Visualização de consultas:__ Médicos podem visualizar as consultas agendadas e entrar em videochamadas.
+-  __Videochamada:__ Funcionalidade para médicos e pacientes interagirem em tempo real através de videochamadas.
 
 
 
