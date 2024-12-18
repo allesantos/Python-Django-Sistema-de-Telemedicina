@@ -32,9 +32,11 @@ Este projeto é uma plataforma de telemedicina onde médicos e pacientes podem s
 
 ## Tecnologias Utilizadas
 -  __Django__
+  
 -  __Django Rest Framework__
--  __WebRTC__ para videochamadas
+  
 -  __SQLite__ (banco de dados local)
+
 -  __HTML/CSS/JavaScript__ para a interface do usuário
 
 ## Pré-requisitos
